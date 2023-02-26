@@ -26,4 +26,5 @@
 2 Жолдағы элементтердің орташа мәні: 10.5
 
 Тапсырманы https://t.me/nazarbekmb сілтемесі бойынша жіберу қажет және https://docs.google.com/spreadsheets/d/1UsTsrlCyB-gzDwc6XIPYpZ7MktmOkTVqHkTT9eikytc/edit?usp=sharing сілтемесі бойынша тіркеліп қорғау қажет.
+
 P.S. қосымша сұрақтарыңыз болса чаты арқылы қоя аласыз https://t.me/+rq0xb3r_USxlN2Ni
